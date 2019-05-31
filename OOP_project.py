@@ -1,5 +1,12 @@
 # Section A:
-
+# The OOP text based game I will be creating is blackjack. This game will allow at two 
+# players to play against each other. In the game the user will be dealt his cards initially, once these 
+# cards are dealt each player will be able to see their cards and either “hit” or “stay”. After this the 
+# players will be able to place their bets from their wallet. This will keep happening until both players 
+# select “stay” in which case both cards will be revealed and the winner will receive all of the money on 
+# the table. After each hand the players will be given an option to play the “last hand”. If players select 
+# “last hand” they will be able to play a normal hand or do “Winner Takes all” in which case whoever wins will
+# get all of the money.  
 
 # Success Criteria:
 # The game has a deck of cards which excludes the joker
